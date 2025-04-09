@@ -7,3 +7,5 @@ matplotlib
 joblib
 seaborn
 scikit-learn
+notebook 
+jupyterlab
