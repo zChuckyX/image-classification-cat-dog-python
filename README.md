@@ -15,15 +15,15 @@ image-classification-cat-dog-python/
 ├── README.md           # Documentation file explaining how to use the project
 ├── LICENSE            # File containing the license (MIT License)          
 └── models/             # Folder for storing trained models
-        ├── cnn_Model1.h5
-        ├── cnn_Model2.h5
-        ├── cnn_Model3.h5
-        ├── knn_Model1.pkl
-        ├── knn_Model2.pkl
-        ├── knn_Model3.pkl
-        ├── rf_Model1.pkl
-        ├── rf_Model2.pkl
-        └── rf_Model3.pkl
+|       ├── cnn_Model1.h5
+|       ├── cnn_Model2.h5
+|       ├── cnn_Model3.h5
+|       ├── knn_Model1.pkl
+|       ├── knn_Model2.pkl
+|       ├── knn_Model3.pkl
+|       ├── rf_Model1.pkl
+|       ├── rf_Model2.pkl
+|       └── rf_Model3.pkl
 ```
 
 ## ⚙️ Installation 
